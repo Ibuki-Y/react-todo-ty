@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  color: dimgray;
+  font-family: serif;
+}
+
+.taskIcon {
+  color: #333;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-top: 40px;
+}
+
+.logout {
+  color: dimgray;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+}
+.logout :hover {
+  color: #333;
+}
+
+button:disabled {
+  color: #ccc;
+  cursor: default;
+}
+
+h1 {
+  display: inline-block;
+}

@@ -1,0 +1,11 @@
+.taskIcon {
+  color: dimgray;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-left: 2px;
+}
+.taskIcon :hover {
+  color: #333;
+}
